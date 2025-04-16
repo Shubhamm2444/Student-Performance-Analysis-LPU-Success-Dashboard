@@ -1,0 +1,101 @@
+Student_ID,Name,Age,Gender,Major,Attendance (%),Study_Hours_Per_Week,Extracurricular_Activities,GPA,Parental_Education_Level,Internet_Access,Part_Time_Job,Library_Visits_Per_Week,Previous_Semester_GPA
+LPU1000,Meera,18,Female,Pharmacy,57.5,23,Yes,7.19,Bachelor's,Yes,No,5,8.51
+LPU1001,Anjali,20,Male,Electrical Engineering,82.3,19,No,8.66,High School,Yes,Yes,4,9.91
+LPU1002,Siddharth,20,Female,Business Administration,92.2,28,Yes,5.55,Master's,Yes,No,7,6.67
+LPU1003,Sara,20,Female,Marketing,86.2,11,Yes,9.86,High School,No,No,6,6.66
+LPU1004,Meera,21,Male,Civil Engineering,88.1,39,No,7.83,Bachelor's,Yes,No,6,6.99
+LPU1005,Siddharth,23,Male,Electrical Engineering,61.7,34,Yes,8.36,PhD,No,Yes,5,5.14
+LPU1006,Manav,22,Male,Mechanical Engineering,90.0,18,No,7.66,High School,Yes,No,7,8.07
+LPU1007,Anaya,21,Female,Electrical Engineering,62.1,38,No,8.01,High School,Yes,No,5,9.44
+LPU1008,Kiara,25,Female,Finance,51.5,12,No,8.11,Master's,Yes,No,7,6.95
+LPU1009,Kiara,18,Male,Civil Engineering,79.3,11,Yes,7.86,High School,Yes,Yes,6,5.73
+LPU1010,Tanya,22,Male,Electrical Engineering,61.8,25,Yes,6.59,High School,Yes,Yes,7,7.98
+LPU1011,Vikram,23,Male,Finance,84.6,28,Yes,7.48,Master's,No,No,4,8.0
+LPU1012,Meera,20,Male,Finance,61.5,20,No,9.49,High School,Yes,Yes,3,9.22
+LPU1013,Vikram,19,Male,Data Science,98.8,29,Yes,9.19,PhD,No,No,7,7.69
+LPU1014,Aarav,22,Male,Electrical Engineering,77.3,25,Yes,7.27,High School,No,No,2,7.89
+LPU1015,Kiara,21,Female,Business Administration,74.9,5,Yes,7.02,High School,No,Yes,2,5.06
+LPU1016,Sanya,21,Male,Finance,65.1,8,Yes,6.57,Bachelor's,No,Yes,6,7.46
+LPU1017,Vihaan,22,Female,Data Science,69.5,32,No,6.44,PhD,Yes,Yes,2,5.97
+LPU1018,Aryan,23,Female,Civil Engineering,89.0,39,No,5.45,High School,No,Yes,4,6.52
+LPU1019,Priya,21,Female,Business Administration,75.4,40,Yes,8.73,High School,Yes,No,6,7.88
+LPU1020,Myra,22,Male,Data Science,84.1,9,Yes,7.92,Bachelor's,Yes,No,1,7.45
+LPU1021,Tanya,20,Female,Biotechnology,76.9,39,No,7.69,PhD,Yes,Yes,2,7.56
+LPU1022,Diya,23,Female,Business Administration,63.3,24,No,6.79,Master's,No,No,2,6.54
+LPU1023,Krishna,25,Male,Data Science,64.7,28,No,5.48,Master's,Yes,No,0,5.79
+LPU1024,Rohan,24,Male,Computer Science,77.9,17,No,7.13,Bachelor's,Yes,Yes,1,5.5
+LPU1025,Sanya,18,Female,Electrical Engineering,72.6,35,Yes,8.75,Master's,Yes,Yes,6,7.92
+LPU1026,Aditya,18,Female,Computer Science,66.7,9,Yes,7.87,High School,No,No,0,7.12
+LPU1027,Nisha,21,Male,Biotechnology,70.7,32,Yes,9.9,Bachelor's,Yes,No,5,8.88
+LPU1028,Riya,25,Male,Pharmacy,98.3,11,Yes,5.16,Bachelor's,No,No,4,9.64
+LPU1029,Kabir,23,Male,Pharmacy,94.2,10,No,8.93,Master's,No,Yes,1,5.26
+LPU1030,Harsh,24,Male,Mechanical Engineering,50.7,22,Yes,6.66,High School,No,No,5,8.47
+LPU1031,Aanya,21,Female,Civil Engineering,85.2,8,Yes,7.63,High School,No,No,1,6.63
+LPU1032,Anaya,21,Female,Data Science,70.7,15,No,5.38,Bachelor's,No,No,1,8.19
+LPU1033,Anjali,19,Female,Mechanical Engineering,98.8,34,No,8.6,PhD,No,No,4,7.28
+LPU1034,Aditya,21,Female,Business Administration,55.9,11,No,7.92,High School,Yes,No,0,6.0
+LPU1035,Vivaan,20,Male,Marketing,88.7,15,No,5.93,High School,Yes,No,1,6.92
+LPU1036,Krishna,23,Female,Marketing,57.3,18,No,7.04,High School,Yes,No,2,7.68
+LPU1037,Nikhil,21,Female,Pharmacy,53.2,13,Yes,7.02,Master's,Yes,Yes,2,8.86
+LPU1038,Meera,22,Female,Computer Science,68.2,33,Yes,9.52,PhD,Yes,No,1,9.59
+LPU1039,Nikhil,19,Female,Finance,85.6,26,No,5.57,High School,No,No,0,5.34
+LPU1040,Krishna,19,Male,Biotechnology,69.8,38,Yes,7.61,High School,No,Yes,7,9.83
+LPU1041,Aditya,24,Male,Biotechnology,74.7,15,No,9.98,PhD,Yes,No,2,8.1
+LPU1042,Meera,23,Female,Computer Science,94.8,18,No,6.43,Bachelor's,No,Yes,0,6.58
+LPU1043,Manav,24,Female,Finance,57.2,32,No,6.27,Master's,No,Yes,6,7.24
+LPU1044,Neha,22,Female,Pharmacy,52.0,25,Yes,8.92,Master's,No,No,1,9.53
+LPU1045,Ishaan,23,Male,Civil Engineering,79.7,7,Yes,8.06,Master's,Yes,No,6,7.62
+LPU1046,Anaya,19,Male,Computer Science,81.5,40,No,9.71,PhD,Yes,No,7,7.23
+LPU1047,Nikhil,21,Female,Computer Science,55.7,6,No,7.83,High School,No,Yes,7,6.42
+LPU1048,Aanya,24,Female,Finance,59.2,11,Yes,5.81,PhD,No,Yes,2,7.27
+LPU1049,Vikram,22,Female,Mechanical Engineering,77.4,33,Yes,9.17,PhD,Yes,Yes,4,7.97
+LPU1050,Meera,25,Female,Electrical Engineering,76.1,24,Yes,9.93,PhD,No,Yes,4,5.63
+LPU1051,Anjali,19,Male,Data Science,83.6,21,Yes,6.63,PhD,No,No,7,6.95
+LPU1052,Nikhil,23,Male,Electrical Engineering,84.8,34,Yes,7.07,PhD,Yes,Yes,3,8.75
+LPU1053,Tanya,23,Female,Data Science,68.2,16,Yes,5.41,PhD,No,No,5,7.76
+LPU1054,Vihaan,23,Female,Business Administration,89.1,11,No,9.47,Master's,Yes,No,3,8.48
+LPU1055,Rohan,18,Male,Data Science,62.6,20,Yes,9.86,Bachelor's,No,No,2,9.79
+LPU1056,Sanya,19,Male,Computer Science,69.7,19,Yes,8.93,Master's,Yes,No,0,9.91
+LPU1057,Raj,25,Male,Marketing,68.9,37,Yes,9.14,Master's,No,Yes,2,6.44
+LPU1058,Vivaan,23,Male,Computer Science,72.8,12,Yes,5.39,High School,Yes,Yes,0,8.63
+LPU1059,Kabir,25,Male,Marketing,86.4,23,No,7.62,Master's,Yes,No,3,6.25
+LPU1060,Siddharth,24,Male,Biotechnology,98.5,20,No,9.52,PhD,No,No,2,6.63
+LPU1061,Rohan,23,Male,Pharmacy,93.2,6,No,6.69,PhD,Yes,Yes,6,8.65
+LPU1062,Priya,19,Male,Finance,70.7,27,Yes,5.32,Bachelor's,No,Yes,4,8.35
+LPU1063,Sanya,21,Male,Pharmacy,81.0,34,Yes,9.21,PhD,Yes,Yes,4,9.16
+LPU1064,Siddharth,20,Female,Civil Engineering,74.3,22,Yes,6.26,High School,No,No,7,9.44
+LPU1065,Nisha,23,Male,Business Administration,65.0,17,Yes,7.89,PhD,Yes,Yes,4,5.64
+LPU1066,Anaya,21,Male,Pharmacy,89.9,25,Yes,9.09,Master's,Yes,Yes,4,9.46
+LPU1067,Priya,22,Female,Finance,77.7,40,No,8.06,Master's,Yes,No,4,5.77
+LPU1068,Kabir,23,Female,Electrical Engineering,51.7,16,No,5.34,Master's,No,Yes,3,6.8
+LPU1069,Kiara,18,Female,Biotechnology,61.9,8,Yes,9.87,Bachelor's,Yes,No,4,9.29
+LPU1070,Nisha,19,Female,Business Administration,98.1,9,Yes,8.17,High School,Yes,No,6,7.1
+LPU1071,Kabir,19,Female,Civil Engineering,51.9,33,Yes,8.41,Master's,Yes,Yes,0,6.3
+LPU1072,Nikhil,20,Male,Biotechnology,90.6,14,No,5.26,High School,No,No,1,7.74
+LPU1073,Sara,24,Female,Computer Science,53.4,7,Yes,6.69,PhD,No,No,3,5.7
+LPU1074,Sanya,19,Male,Mechanical Engineering,52.4,31,No,7.89,Master's,Yes,No,4,5.92
+LPU1075,Riya,24,Male,Finance,85.7,12,Yes,9.93,Master's,Yes,No,6,9.87
+LPU1076,Nikhil,19,Female,Pharmacy,90.9,26,No,6.68,High School,Yes,No,7,8.08
+LPU1077,Kabir,23,Male,Electrical Engineering,91.2,28,No,5.6,PhD,No,Yes,0,6.35
+LPU1078,Vivaan,18,Male,Biotechnology,91.0,6,Yes,7.33,Master's,Yes,No,7,9.49
+LPU1079,Priya,23,Female,Electrical Engineering,70.0,31,No,8.28,High School,Yes,Yes,4,6.42
+LPU1080,Krishna,20,Male,Business Administration,96.4,35,No,6.77,Master's,No,Yes,3,7.33
+LPU1081,Raj,21,Female,Computer Science,94.9,17,No,7.69,PhD,No,Yes,1,6.78
+LPU1082,Harsh,18,Female,Business Administration,95.4,16,No,7.25,PhD,No,Yes,5,8.96
+LPU1083,Nisha,19,Male,Mechanical Engineering,61.7,21,Yes,6.42,Bachelor's,No,No,7,5.38
+LPU1084,Vihaan,24,Male,Biotechnology,89.6,24,Yes,5.27,PhD,Yes,No,5,8.18
+LPU1085,Tanya,24,Female,Mechanical Engineering,80.4,29,No,5.39,PhD,Yes,No,2,7.03
+LPU1086,Diya,19,Male,Marketing,64.2,14,No,5.69,Bachelor's,Yes,No,0,7.22
+LPU1087,Aarav,18,Male,Mechanical Engineering,59.0,39,Yes,6.22,Master's,No,No,2,5.33
+LPU1088,Raj,25,Male,Data Science,64.9,12,No,7.85,High School,No,Yes,0,6.84
+LPU1089,Ishaan,23,Female,Pharmacy,68.7,7,Yes,6.6,Master's,No,Yes,5,8.13
+LPU1090,Krishna,25,Female,Marketing,63.2,26,Yes,7.57,PhD,Yes,No,3,8.14
+LPU1091,Krishna,21,Male,Civil Engineering,67.0,13,Yes,9.13,Bachelor's,No,Yes,6,8.32
+LPU1092,Nisha,23,Male,Finance,59.9,33,Yes,8.89,High School,Yes,Yes,5,7.73
+LPU1093,Neha,20,Female,Computer Science,82.9,32,No,5.42,Master's,Yes,No,5,7.08
+LPU1094,Krishna,21,Female,Finance,98.5,6,No,7.69,Bachelor's,No,No,3,6.75
+LPU1095,Simran,19,Female,Computer Science,89.5,15,Yes,9.58,High School,Yes,No,2,6.29
+LPU1096,Anaya,25,Female,Marketing,51.5,33,No,9.87,Bachelor's,Yes,No,1,8.41
+LPU1097,Vivaan,23,Male,Electrical Engineering,79.8,19,No,5.48,Bachelor's,Yes,Yes,6,5.91
+LPU1098,Kiara,23,Female,Pharmacy,52.0,15,Yes,7.69,PhD,No,Yes,2,7.78
+LPU1099,Sanya,23,Female,Finance,77.0,8,Yes,7.72,Bachelor's,No,No,7,5.27
